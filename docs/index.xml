@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STA 771S: Teaching statistics on STA 771S</title>
+    <link>/</link>
+    <description>Recent content in STA 771S: Teaching statistics on STA 771S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Class: Class is on Tuesdays, 3:05 - 4:20pm at Old Chem.
+Class time is designed to be as interactive as possible. My role as instructor is to introduce you new ideas and provide pointers, but you will learn most in this class by actively discussing with classmates and completing teaching related exercises.
+Office hours Office hours for this course are by appointment.
+Goals  Become an effective teacher and communicator of statistics.</description>
+    </item>
+    
+  </channel>
+</rss>

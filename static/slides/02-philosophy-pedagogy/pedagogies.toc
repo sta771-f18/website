@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Traditional lecture}{2}{0}{1}
+\beamer@sectionintoc {2}{Flipped classroom}{17}{0}{2}
+\beamer@sectionintoc {3}{Team-based learning (TBL)}{20}{0}{3}
+\beamer@sectionintoc {4}{Hybrid models}{31}{0}{4}
+\beamer@sectionintoc {5}{Regardless of pedagogy}{40}{0}{5}
+\beamer@sectionintoc {6}{Visit a class}{42}{0}{6}

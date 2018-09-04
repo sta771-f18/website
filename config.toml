@@ -1,0 +1,56 @@
+baseurl = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "STA 771S"
+theme = "material"
+#disqusShortname = ""
+# googleAnalytics = ""
+paginate = 7
+relativeurls = true
+publishDir = "docs"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[author]
+  name = "Mine Cetinkaya-Rundel"
+  bio = ""
+  job = "Associate Professor of the Practice"
+  location = "Duke University"
+  gravatarEmail = "mine@stat.duke.edu"
+  # Your profile picture
+#  picture = ""
+  twitter = "minebocek"
+ 
+# Menu Configuration
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class='fas fa-home fa-lg'></i>&nbsp;"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "syllabus"
+  name = "Syllabus"
+  pre = "<i class='fas fa-file-contract fa-lg'></i>&nbsp;"
+  url = "/syllabus"
+
+
+[[menu.footer]]
+  weight = 1
+  identifier = "Duke"
+  name = "Duke StatSci"
+  pre = "<i class=\"button-icon fa fa-map-marker\"></i>"
+  url = "http://stat.duke.edu/"
+
+[params]
+  dateFormat = "January 2, 2006"
+  background = "http://www2.stat.duke.edu/courses/Fall18/sta771.01/img/kitten.png"

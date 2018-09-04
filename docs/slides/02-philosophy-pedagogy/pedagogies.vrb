@@ -1,0 +1,35 @@
+\frametitle{Hide the answers}
+
+\begin{itemize}
+
+\item If using LaTeX / Beamer, this is easy:
+
+\begin{itemize}
+
+\item For slides you show in class:
+
+\begin{verbatim}
+\newcommand{\soln}[1]{\textit{#1}}
+\end{verbatim}
+
+\soln{I'm on the slides shown in class, but not on the posted slides.}
+
+\item For slides posted for students:
+
+\begin{verbatim}
+\newcommand{\soln}[1]{}
+\end{verbatim}
+
+\end{itemize}
+
+\pause
+
+\item Possible to achieve similar formatting with R Markdown as well
+
+\pause
+
+\item For Keynote, PowerPoint etc. you might need to manually add/remove text
+
+\end{itemize}
+
+
