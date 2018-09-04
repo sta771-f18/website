@@ -36,7 +36,7 @@ before next week, along with next week's readings.
 - [Various pedagogical approaches to classroom teaching](/slides/02-philosophy-pedagogy/pedagogies.pdf)
 - [Writing a good teaching statement](/slides/02-philosophy-pedagogy/teaching-statement.pdf)
 
-Slides are made in LaTeX Beamer. Source file can be found [here](/slides/02-philosophy-pedagogy/).
+Slides are made in LaTeX Beamer. Source file can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/02-philosophy-pedagogy).
 
 #### Discussion:
 
