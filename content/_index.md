@@ -71,12 +71,15 @@ Slides are made in LaTeX Beamer. Source file can be found [here](https://github.
 #### Slides:
 
 - [Writing a good teaching statement](/slides/03-philosophy-design/teaching-statement.pdf)
-- Designing your own course: course organization (book based / not) + syllabus + choosing a textbook + how to decide what goes in each lecture + finding teaching resources and choosing between them + tailoring for your audience (undergrads / grads / your boss)
+- [Designing your own course]()
+- [Writing a syllabus](/slides/03-philosophy-design/syllabus.pdf)
 
+Teaching statement and syllabus slides are made in LaTeX Beamer and course design slides are made with the [`xaringan`](https://github.com/yihui/xaringan) package. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/03-philosophy-design).
 
 #### Discussion:
 
 - What is your teaching philosophy? Think, pair, share, and summarize in 1-2 sentences.
+- How do you tailor your content for your audience: undergrads / grads / your boss?
 
 #### Readings:
 
