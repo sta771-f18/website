@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{A comprehensive syllabus}{2}{0}{1}
+\beamer@sectionintoc {2}{Components of a syllabus}{4}{0}{2}
+\beamer@sectionintoc {3}{Introducing your syllabus in class}{18}{0}{3}

@@ -1,0 +1,176 @@
+---
+title: "Designing your own course"
+author: "Dr. Çetinkaya-Rundel"
+date: "2018-09-11"
+output:
+  xaringan::moon_reader:
+    css: ["default", "default-fonts", "hygge"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+class: center, middle
+
+# Topic selection & flow
+
+---
+
+## Backwards design
+
+Designing educational curriculum by setting goals before choosing instructional methods and forms of assessment [[Source](https://en.wikipedia.org/wiki/Backward_design)]
+
+--
+
+1. **Identify** the results desired, focusing on the "big ideas" (principles, theories, concepts, point of views, or themes)
+    - What should the students know, understand, and be able to do?
+    - What are the goals and curriculum expectations?
+
+--
+2. **Determine** acceptable levels of evidence that support that the desired results have occurred
+    - What will you/department as evidence that student understanding took place?
+    - Consider culminating assessment tasks and a range of assessment methods (observations, tests, projects, etc.).
+
+--
+3. **Design** activities that will make desired results happen
+    - What knowledge and skills will students need to achieve the desired results?
+    - Consider teaching methods, sequence of lessons, and resource materials.
+ 
+---
+
+## Topic flow
+
+- Create a schedule for the course with all the days you have available for teaching
+
+--
+
+- Mark any holidays
+
+--
+
+- Mark the day of the final exam/assessment (usually dictated by the university)
+
+--
+
+- Mark the days of midterm exams/assessments, keeping in mind mid-semester grade reporting dates
+
+--
+
+- Make a note of big ideas you want to have covered until each of the major assessments you have marked above
+
+--
+
+- Write out a list of topics you need to cover to achieve the learning goals for those major assessments
+
+--
+
+- Map the list of topics to teaching days
+
+---
+
+## What can you reasonably fit in one lecture?
+
+--
+
+# `r emo::ji("woman_shrugging")`
+
+--
+
+- Less than you think!
+
+--
+
+- You can "fit" a lot more if you lecture non-stop, but...
+
+--
+
+- Keep in mind: "It's not what you teach, it's what they learn"
+
+--
+
+- Make additional time for activities
+
+--
+
+- Do not feel like you have to "cover" everything during an in person session
+    - Readings, videos, homework assignments/labs, projects, etc.are all good and acceptable venues for presenting new material
+    - While it's also ok to present new material in exams, most students won't be a fan of it (but extra credit questions are always an option)
+
+---
+
+## Other considerations
+
+### Scheduling assignments and assessments
+
+- Regularly scheduled (weekly, biweekly, etc.) homework is better than sporadic
+
+--
+
+- Aim for returning feedback and graded work for the first assignment before the second one is due
+
+--
+
+- Consider whether students will have received all graded work before a major assessment, e.g. an exam
+
+--
+
+- Lighten the load around major assessments
+
+---
+
+class: center, middle
+
+# Textbooks and other resources
+
+---
+
+## Various approaches to organizing content
+
+- Closely follow a textbook: If you're teaching content that is well established, or that you've written a book on!
+    - Extremely helpful for students in introductory courses
+    - Also useful for you for the first time you're teaching
+
+--
+
+- Use various texts: If you're teaching content that is new/developing/not written on in textbook form, at least for the audience you're teaching
+    - Requires you to be extra organized to make sure students are aware of which topic is being covered when
+    - Need to consider accessibility of various sources, which may not be a small feat
+    
+--
+
+- No textbook: Might be perfectly fine to not have a textbook, but no readings simply means you haven't done your job -- surely something is written about what you're teaching, even if you wrote it
+    - You will need to write your assignments if there are no end of chapter exercises you can assign
+    - Organization of content and communication of expectations is even more 
+
+---
+
+## Choosing resources
+
+- Obviously the most important consideration is content
+    - If this is not the first time the course is being taught, but it is your fist time teaching it, consider sticking with the existing textbook/resources
+
+--
+
+- Other considerations:
+    - Flow of topics: it's not easy to jump around a textbook
+    - Exercises: Either to assign as HW or for practice
+    - Solutions to exercises: Some available to students, but not all!
+        - Especially if a book has been around for a while, assume solutions are floating around
+    - Cost: Is there an open source option?
+        - Is the open source project "alive" and active?
+    - Datasets: Are they available and easily accessible?
+        - Some books come with an R package, it doesn't get any easier than that!
+    - Teacher supplementary materials: Slides, sample exams, learning objectives, etc.
+
+---
+
+
+
+
