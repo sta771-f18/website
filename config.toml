@@ -10,7 +10,6 @@ relativeurls = true
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-
 [permalinks]
   post = "/:year/:month/:slug/"
 
@@ -42,6 +41,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "Syllabus"
   pre = "<i class='fas fa-file-contract fa-lg'></i>&nbsp;"
   url = "/syllabus"
+[[menu.main]]
+  weight = 3
+  identifier = "github"
+  name = ""
+  pre = "<i class='fab fa-github fa-lg'></i>&nbsp;"
+  url = "https://github.com/sta771-f18/website"
 
 
 [[menu.footer]]
