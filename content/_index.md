@@ -71,10 +71,9 @@ Slides are made in LaTeX Beamer. Source file can be found [here](https://github.
 #### Slides:
 
 - [Writing a good teaching statement](/slides/03-philosophy-design/teaching-statement.pdf)
-- [Designing your own course]()
-- [Writing a syllabus](/slides/03-philosophy-design/syllabus.pdf)
+- [Designing your own course](/slides/03-philosophy-design/design-course.html)
 
-Teaching statement and syllabus slides are made in LaTeX Beamer and course design slides are made with the [`xaringan`](https://github.com/yihui/xaringan) package. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/03-philosophy-design).
+Teaching statement slides are made in LaTeX Beamer and course design slides are made with the [`xaringan`](https://github.com/yihui/xaringan) package. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/03-philosophy-design).
 
 #### Discussion:
 
@@ -126,6 +125,11 @@ Teaching statement and syllabus slides are made in LaTeX Beamer and course desig
 
 #### Oct 2
 
+#### Slides
+
+- [Writing a syllabus](/slides/06-philosophy-design/syllabus.pdf)
+
+
 - Teaching statement workshop
 - Developing robust and successful course policies
 
@@ -171,8 +175,8 @@ Teaching statement and syllabus slides are made in LaTeX Beamer and course desig
 #### Nov 6
 
 - Run an active learning session on a topic of your own choice
-- 15-20 minute presentation
-- Presenters: Abbas, Tori, Liz
+- 15 minute presentation
+- Presenters: Abbas, Tori, Liz, Kelly
 
 ----
 
@@ -181,8 +185,8 @@ Teaching statement and syllabus slides are made in LaTeX Beamer and course desig
 #### Nov 13
 
 - Run an active learning session on a topic of your own choice
-- 15-20 minute presentation
-- Presenters: Abbas, Tori, Liz
+- 15 minute presentation
+- Presenters: Alex, Jake, Lindsey
 
 -----
 
@@ -197,3 +201,5 @@ Teaching statement and syllabus slides are made in LaTeX Beamer and course desig
 #### Nov 27
 
 TBD
+
+
