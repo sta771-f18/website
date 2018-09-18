@@ -8,7 +8,9 @@ markup: "mmark"
 
 #### Aug 28
 
-#### Slides: [Intro stats and intro data science - Do we need both?](/slides/01-fresh-look/intro-stat-ds-need-both.pdf)
+#### Slides: 
+
+[Intro stats and intro data science - Do we need both?](/slides/01-fresh-look/intro-stat-ds-need-both.pdf)
 
 Slides are made in Keynote. Source file can be found [here](/slides/01-fresh-look/intro-stat-ds-need-both.key).
 
@@ -32,7 +34,9 @@ before next week, along with next week's readings.
 
 #### Sep 4
 
-#### Slides: [Various pedagogical approaches to classroom teaching](/slides/02-pedagogy/pedagogies.pdf)
+#### Slides: 
+
+[Various pedagogical approaches to classroom teaching](/slides/02-pedagogy/pedagogies.pdf)
 
 Slides are made in LaTeX Beamer. Source file can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/02-philosophy-pedagogy).
 
@@ -101,10 +105,18 @@ Teaching statement slides are made in LaTeX Beamer and course design slides are 
 
 #### Sep 18
 
-- [Computational infrastructures for teaching with R](/slides/04-computing/teach-r-infrastructure.pdf)
-- Running your course on GitHub
+#### Slides: 
 
-Slides are made in Keynote. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/04-computing).
+[Computational infrastructures for teaching with R](/slides/04-teach-r-infrastructure/teach-r-infrastructure.pdf)
+
+Slides are made in Keynote. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/04-teach-r-infrastructure).
+
+#### Discussion:
+
+- How important a skill is being able to install and run a new piece of software? 
+When should students learn this skill?
+- How do these software solutions interplay with FERPA?
+- How do we achieve similar goals if not working with R?
 
 #### Readings:
 
@@ -157,7 +169,7 @@ Slides are made in Keynote. Source files for both can be found [here](https://gi
 
 #### Oct 23
 
-- Teaching R to new useRs with the tidyverse
+- Running your course on GitHub
 - Reproducible workflows for teaching and learning
 
 ----
@@ -202,6 +214,7 @@ Slides are made in Keynote. Source files for both can be found [here](https://gi
 
 #### Nov 27
 
-TBD
+Teaching R to new useRs with the tidyverse
+
 
 
