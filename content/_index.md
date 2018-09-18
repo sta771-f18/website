@@ -101,8 +101,10 @@ Teaching statement slides are made in LaTeX Beamer and course design slides are 
 
 #### Sep 18
 
-- Computational infrastructures for teaching with R
+- [Computational infrastructures for teaching with R](/slides/04-computing/teach-r-infrastructure.pdf)
 - Running your course on GitHub
+
+Slides are made in Keynote. Source files for both can be found [here](https://github.com/sta771-f18/website/tree/master/static/slides/04-computing).
 
 #### Readings:
 
