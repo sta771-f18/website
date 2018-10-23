@@ -141,11 +141,13 @@ When should students learn this skill?
 
 #### Slides
 
-- [Writing a syllabus](/slides/06-philosophy-design/syllabus.pdf)
+- [Teaching statement workshop](/slides/07-statement-syllabus/teaching-statement-workshop.pdf)
+- [Writing a syllabus](/slides/07-statement-syllabus/syllabus.pdf)
 
 
-- Teaching statement workshop
-- Developing robust and successful course policies
+#### Discussion
+
+What are some robust and successful course policies you encountered in the sample syllabi you collected?
 
 ----
 
@@ -169,8 +171,7 @@ When should students learn this skill?
 
 #### Oct 23
 
-- Running your course on GitHub
-- Reproducible workflows for teaching and learning
+- [Running your course on GitHub](/slides/08-management/08-management.html)
 
 ----
 
