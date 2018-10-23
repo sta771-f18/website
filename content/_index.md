@@ -167,11 +167,11 @@ What are some robust and successful course policies you encountered in the sampl
 
 ----
 
-### Week 9 - Teaching data science, reproducibly
+### Week 9 - Teaching data science, reproducibly - Pt 1
 
 #### Oct 23
 
-- [Running your course on GitHub](/slides/08-management/08-management.html)
+- [Running your course on GitHub](/slides/08-github/ghclass.html)
 
 ----
 
@@ -211,11 +211,12 @@ What are some robust and successful course policies you encountered in the sampl
 
 -----
 
-### Week 14 - Miscellenous topics
+### Week 14 - Teaching data science, reproducibly - Pt 2
 
 #### Nov 27
 
-Teaching R to new useRs with the tidyverse
+- Reproducible workflows for teaching and learning R
+- Teaching R to new useRs with the tidyverse
 
 
 
